@@ -1,0 +1,178 @@
+/* 
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.main{
+    width: 25%;
+    height: 25%;
+    margin: 15% auto;
+    
+    text-align: center;
+}
+.main button{
+    padding: 5px;
+    margin: 2%;
+}
+.listmain{
+    text-align: center;
+    width: 50%;
+    background-color: aqua;
+}
+table{
+    border: 2px solid black;
+    width: 200px;
+    margin: 0% auto;
+}
+table td{
+    /* padding: 50px; */
+    /* border: 2px solid black; */
+
+/* } */
+/* table th{
+    border: 2px solid black;
+
+}
+span{
+    margin: 5% auto;
+    margin-right: 10%;
+    width: 50%;
+    background-color: aqua;
+} */ 
+
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+
+
+.details {
+    width: 30%;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.lowerHeader{
+    width: 100%;
+    height: 80px;
+    background-color: #292936;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    color: white;
+   
+   
+   
+}
+.shop{
+    width: 20%;
+}
+.search{
+    width: 50%;
+    display: flex;
+    
+}
+.user{
+    width: 70%;
+    position: relative;
+    
+    
+}
+.btn{
+    position: absolute;
+    top:-5px;
+    right: 0px;
+    padding: 10px;
+}
+.search input{
+    width: 100%;
+    /* height: 35px; */
+    border-radius: 15px;
+    background-color: #292936;
+    color: white;
+    padding: 10px;
+
+
+}
+.search button{
+   
+    padding: 5px;
+    border-radius: 15px;
+    background-color: rgb(17, 229, 229);
+    color: white;
+}
+.login{
+    width: 20%;
+ 
+}
+.login i{
+    padding-left: 30px ;
+}
+.banner{
+    width: 100%;
+    margin: 0% auto ;
+}
+.banner img{
+    width: 100%;
+    height: inherit;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+
+}
+.productList{
+    width: 100%;
+    display: flex;
+}
+.box{
+    width: 10%;
+    margin: 20px;
+    height: 150px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+.prdimage{
+    width: 80%;
+}
+.prdimage img{
+    width: inherit;
+    height: 50px;
+}
+h1{
+    text-align: center;
+}
+Link{
+    display: flex;
+}
+.header{
+    width: 100%;
+    height: 80px;
+    background-color: #292936;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: white;
+    margin-bottom: 2px;
+    
+}
+.logo{
+    width:30% ;
+    font-size: 30px;
+}
+.hm{
+    width: 20%;
+  
+  
+}
+.hm a{
+    text-decoration: none;
+    color: white;
+}
+
